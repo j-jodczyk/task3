@@ -16,3 +16,4 @@ typing_extensions==4.8.0
 Werkzeug==2.3.7
 WTForms==3.0.1
 healpy==1.8.0
+pytest==8.3.4
